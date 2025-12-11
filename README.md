@@ -1,4 +1,4 @@
-# useful-utilities-support
+# Useful Utilities Support
 This repository is for support tickets for Useful Utilities, an application built for macOS and iPadOS.
 
 ### How to use this repository
